@@ -102,7 +102,8 @@ img.desktop {
 /*Content*/
 
 h2{
-    text-align: center;  
+    text-align: center;
+    font-size: 38px;  
 }
 h3{
     text-align: center;
@@ -193,7 +194,7 @@ nav a::before{
     transform-origin: left;
     transition: transform ease-in-out 250ms;
 }
-nav a: hover::before{
+nav a:hover::before{
     transform: scale(1,1);
 }
 /*nav bar ends here*/
@@ -212,7 +213,7 @@ nav a: hover::before{
     justify-content: center;
 }
 p{
-  font-size: 20px 
+  font-size: 24px 
 }
-}
+
 
