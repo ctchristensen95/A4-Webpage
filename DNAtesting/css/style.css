@@ -99,6 +99,28 @@ img.desktop {
     width: 100%;
 
 }
+img.testimonial {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: auto;
+
+
+}
+.imagelink {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    
+
+}
+.image {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 /*Content*/
 
 h2{
@@ -107,6 +129,8 @@ h2{
 }
 h3{
     text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
 }
 p{
     text-align: center;
